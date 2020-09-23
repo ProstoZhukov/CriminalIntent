@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DatePicker
+    xmlns:andoid="http://schemas.android.com/apk/res/android"
+    andoid:id="@+id/dialog_date_picker"
+    andoid:layout_width="wrap_content"
+    andoid:layout_height="wrap_content"
+    andoid:calendarViewShown="false"/>
